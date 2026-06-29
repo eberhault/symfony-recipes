@@ -113,7 +113,8 @@
         ],
         "monsieurbiz/sylius-search-plugin": [
             "1.0",
-            "2.0"
+            "2.0",
+            "3.0"
         ],
         "monsieurbiz/sylius-settings-plugin": [
             "1.0",
@@ -142,11 +143,11 @@
     "branch": "master",
     "is_contrib": true,
     "_links": {
-        "repository": "github.com/monsieurbiz/symfony-recipes",
-        "origin_template": "{package}:{version}@github.com/monsieurbiz/symfony-recipes:master",
-        "recipe_template": "https://raw.githubusercontent.com/monsieurbiz/symfony-recipes/flex/master/{package_dotted}.{version}.json",
+        "repository": "github.com/eberhault/symfony-recipes",
+        "origin_template": "{package}:{version}@github.com/eberhault/symfony-recipes:master",
+        "recipe_template": "https://raw.githubusercontent.com/eberhault/symfony-recipes/flex/master/{package_dotted}.{version}.json",
         "recipe_template_relative": "{package_dotted}.{version}.json",
-        "archived_recipes_template": "https://raw.githubusercontent.com/monsieurbiz/symfony-recipes/flex/master/archived/{package_dotted}/{ref}.json",
+        "archived_recipes_template": "https://raw.githubusercontent.com/eberhault/symfony-recipes/flex/master/archived/{package_dotted}/{ref}.json",
         "archived_recipes_template_relative": "archived/{package_dotted}/{ref}.json"
     }
 }
