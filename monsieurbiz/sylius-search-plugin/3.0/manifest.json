@@ -8,7 +8,7 @@
         "config/": "%CONFIG_DIR%/"
     },
     "copy-from-package": {
-        "templates/": "templates/"
+        "src/Resources/templates/": "templates/"
     },
     "env": {
         "MONSIEURBIZ_SEARCHPLUGIN_ES_HOST": "${ELASTICSEARCH_HOST:-localhost}",
